@@ -2,6 +2,7 @@
 
 #include <map>
 #include <unordered_map>
+#include <string>
 
 class SymbolMap {
    private:
